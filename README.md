@@ -80,7 +80,7 @@ Automatically detects and labels downloadable files with appropriate icons:
 
 1. **Download or Clone this Repository**
    ```bash
-   git clone https://github.com/yourusername/page-to-markdown.git
+   git clone https://github.com/SparkyMark66/MarkDownChromeExtension.git
    cd page-to-markdown
    ```
 
